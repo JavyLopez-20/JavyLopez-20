@@ -27,6 +27,7 @@ I'm a full-stack developer focused on building practical, user-friendly applicat
 
 ## 🎓 Education
 - ✅ Completed a **6-month Full-Stack Program** at **UTSA Online**
+- Graduated March 2025
 
 ---
 
