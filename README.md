@@ -1,23 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Javier Lopez
 
-### 💻 Skills
+Welcome to my GitHub profile!  
+I'm a full-stack developer focused on building practical, user-friendly applications. 🚀
+
+---
+
+## 👨‍💻 Tech Stack
+
+### Frontend
+- ⚛️ React
 - ⚡ JavaScript
 - 🔷 TypeScript
-- ⚛️ React
+
+### Backend
 - 🟢 Node.js
+
+### Databases
 - 🐘 PostgreSQL
 - 🐬 MySQL
 - 🍃 MongoDB
-- 🚀 CI/CD
 
-### 🎓 Education
-- ✅ Completed a 6-month Full-Stack Program at UTSA Online
+### DevOps
+- 🔁 CI/CD
 
-### 🛠️ Projects
-- 👥 2 team projects
-- 👤 1 solo project: **GrubGuide**
+---
 
-### 📚 Currently Learning
+## 🎓 Education
+- ✅ Completed a **6-month Full-Stack Program** at **UTSA Online**
+
+---
+
+## 🛠️ Featured Projects
+- 👥 **2 Team Projects**
+- 👤 **1 Solo Project:** **GrubGuide**
+
+---
+
+## 📚 Currently Learning
 - 🐍 Python
-- ☕ Java (through a continuation course)
+- ☕ Java *(through a continuation course)*
 - 🐳 Docker
+
+---
+
+## 🤝 Let's Connect
+Thanks for visiting my profile! ✨
