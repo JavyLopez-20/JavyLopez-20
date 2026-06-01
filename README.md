@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**JavyLopez-20/JavyLopez-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Skills
+- ⚡ JavaScript
+- 🔷 TypeScript
+- ⚛️ React
+- 🟢 Node.js
+- 🐘 PostgreSQL
+- 🐬 MySQL
+- 🍃 MongoDB
+- 🚀 CI/CD
 
-Here are some ideas to get you started:
+### 🎓 Education
+- ✅ Completed a 6-month Full-Stack Program at UTSA Online
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects
+- 👥 2 team projects
+- 👤 1 solo project: **GrubGuide**
+
+### 📚 Currently Learning
+- 🐍 Python
+- ☕ Java (through a continuation course)
+- 🐳 Docker
