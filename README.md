@@ -25,18 +25,6 @@ I'm a full-stack developer focused on building practical, user-friendly applicat
 
 ---
 
-## 🎓 Education
-- ✅ Completed a **6-month Full-Stack Program** at **UTSA Online**
-- Graduated March 2025
-
----
-
-## 🛠️ Featured Projects
-- 👥 **2 Team Projects**
-- 👤 **1 Solo Project:** **GrubGuide**
-
----
-
 ## 📚 Currently Learning
 - 🐍 Python
 - ☕ Java *(through a continuation course)*
